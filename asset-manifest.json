@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ListaTareasReact/static/css/main.428108d3.chunk.css",
+    "main.js": "/ListaTareasReact/static/js/main.3579d35d.chunk.js",
+    "main.js.map": "/ListaTareasReact/static/js/main.3579d35d.chunk.js.map",
+    "runtime-main.js": "/ListaTareasReact/static/js/runtime-main.a6e3e446.js",
+    "runtime-main.js.map": "/ListaTareasReact/static/js/runtime-main.a6e3e446.js.map",
+    "static/js/2.72c0cbac.chunk.js": "/ListaTareasReact/static/js/2.72c0cbac.chunk.js",
+    "static/js/2.72c0cbac.chunk.js.map": "/ListaTareasReact/static/js/2.72c0cbac.chunk.js.map",
+    "static/js/3.38c7cf26.chunk.js": "/ListaTareasReact/static/js/3.38c7cf26.chunk.js",
+    "static/js/3.38c7cf26.chunk.js.map": "/ListaTareasReact/static/js/3.38c7cf26.chunk.js.map",
+    "index.html": "/ListaTareasReact/index.html",
+    "static/css/main.428108d3.chunk.css.map": "/ListaTareasReact/static/css/main.428108d3.chunk.css.map",
+    "static/js/2.72c0cbac.chunk.js.LICENSE.txt": "/ListaTareasReact/static/js/2.72c0cbac.chunk.js.LICENSE.txt",
+    "static/media/cerrar.353549ce.svg": "/ListaTareasReact/static/media/cerrar.353549ce.svg",
+    "static/media/editar.6336e3a6.svg": "/ListaTareasReact/static/media/editar.6336e3a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6e3e446.js",
+    "static/js/2.72c0cbac.chunk.js",
+    "static/css/main.428108d3.chunk.css",
+    "static/js/main.3579d35d.chunk.js"
+  ]
+}
